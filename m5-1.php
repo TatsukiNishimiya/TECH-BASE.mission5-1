@@ -2,7 +2,7 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>掲示板</title>
+        <title>m5-1</title>
     </head>
     <body>
         <?php
